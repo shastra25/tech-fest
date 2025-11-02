@@ -1,6 +1,6 @@
 # SHASTRA 2K25 – Tech Fest
 
-**Live Website:** [https://minnushaju.github.io/shastra25/](https://minnushaju.github.io/shastra25/)
+**Live Website:** [https://shastra25.github.io/tech-fest/](https://shastra25.github.io/tech-fest/)
 
 ---
 
